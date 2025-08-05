@@ -61,14 +61,16 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ahmedabualmagd&show_icons=true&theme=tokyonight&card_width=300" 
-  />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabualmagd&layout=compact&theme=tokyonight&card_width=300" 
-    height="300"
+    src="https://github-readme-stats.vercel.app/api?username=ahmedabualmagd&show_icons=true&theme=tokyonight&card_width=440" 
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabualmagd&layout=compact&theme=tokyonight&card_width=440&card_height=500" 
+  />
+</p>
+
 
 
 ---
