@@ -17,10 +17,8 @@
 
 ### 🔥 About Me
 
-- 🎯 Full Stack .NET Developer with experience in ASP.NET Core, Angular and building web scalable applications.
-- 🛠️ Skilled in delivering full-stack solutions using clean architecture, solid principles and best dev. practices .
-- 💡  Completed the Talabat bootcamp with a strong focus on microservices, DDD , and backend scalability.
-- 🚀 Currently seeking a new role to deepen my technical skills, and contribute to impactful real-world projects.
+🎯 Full Stack .NET Developer with experience in ASP.NET Core, Angular and building web scalable applications.
+   Skilled in delivering full-stack solutions using clean architecture, solid principles and best development practices .
 
 ---
 
