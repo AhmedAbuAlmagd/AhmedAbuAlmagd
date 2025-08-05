@@ -17,8 +17,8 @@
 
 ### 🔥 About Me
 
-🎯 Full Stack .NET Developer with experience in ASP.NET Core, Angular and building web scalable applications.
-   Skilled in delivering full-stack solutions using clean architecture, solid principles and best development practices .
+ Full Stack .NET Developer with experience in ASP.NET Core, Angular and building web scalable applications.
+ Skilled in delivering full-stack solutions using clean architecture, solid principles and best development practices .
 
 ---
 
