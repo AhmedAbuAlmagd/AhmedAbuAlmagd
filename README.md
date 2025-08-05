@@ -11,6 +11,7 @@
 
 - 📧 Email: **abuelmagdahmed6@gmail.com**  
 - 📄 [View My Resume](https://drive.google.com/drive/u/0/folders/1262MheHXfmKfc6EtJmk1tQO3OFZRRcHF)
+- - 🔗 [LinkedIn: @ahmed-abu-elmagd](https://www.linkedin.com/in/ahmed-abu-almagd)
 
 ---
 
@@ -24,15 +25,14 @@
 
 ---
 
-### 📫 Let's Connect
-
-- 📧 Email: **abuelmagdahmed6@gmail.com**
-- 📄 [My Resume (Google Drive)](https://drive.google.com/drive/u/0/folders/1262MheHXfmKfc6EtJmk1tQO3OFZRRcHF)
-- 🔗 [LinkedIn: @ahmed-abu-elmagd](https://linkedin.com/in/ahmed-abu-elmagd)
-
----
-
 ### 🧰 Tech Stack
+
+#### 🧠 Backend
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
 
 #### 👨‍💻 Frontend
 <p>
@@ -42,13 +42,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-#### 🧠 Backend
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
 #### 🛢 Databases
@@ -89,7 +82,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/ahmed-abu-elmagd" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-abu-almagd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
 </p>
