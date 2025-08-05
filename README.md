@@ -59,11 +59,17 @@
 
 ### 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedabualmagd&show_icons=true&theme=tokyonight" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabualmagd&layout=compact&theme=tokyonight" height="200"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ahmedabualmagd&show_icons=true&theme=tokyonight&card_width=400" 
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabualmagd&layout=compact&theme=tokyonight&card_width=400" 
+    height="300"
+  />
 </p>
+
 
 ---
 
