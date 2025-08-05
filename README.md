@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abuelmagd</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabualmagd" alt="ahmedabualmagd" /></a> </p>
 
 - 📫 How to reach me **abuelmagdahmed6@gmail.com**
 
