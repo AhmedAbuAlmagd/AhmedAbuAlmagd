@@ -12,11 +12,6 @@
 - 📧 Email: **abuelmagdahmed6@gmail.com**  
 - 📄 [View My Resume](https://drive.google.com/drive/u/0/folders/1262MheHXfmKfc6EtJmk1tQO3OFZRRcHF)
 
----<!-- Banner or welcome GIF -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Abuelmagd;Full+Stack+.NET+Developer;Passionate+about+clean+code+%26+UI%2FUX" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🔥 About Me
