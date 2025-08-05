@@ -11,17 +11,16 @@
 
 - 📧 Email: **abuelmagdahmed6@gmail.com**  
 - 📄 [View My Resume](https://drive.google.com/drive/u/0/folders/1262MheHXfmKfc6EtJmk1tQO3OFZRRcHF)
-- - 🔗 [LinkedIn: @ahmed-abu-elmagd](https://www.linkedin.com/in/ahmed-abu-almagd)
+- 🔗 [LinkedIn: @ahmed-abu-elmagd](https://www.linkedin.com/in/ahmed-abu-almagd)
 
 ---
 
 ### 🔥 About Me
 
-🎯 I'm a **Full Stack Developer** with a strong focus on building **clean, scalable, and performant web applications** using the .NET ecosystem and Angular.
-
-💡 I enjoy designing intuitive user interfaces, solving real-world problems, and writing clean, maintainable code.
-
-🛠️ Currently diving deeper into **Microservices**, **Domain-Driven Design**, and **Cloud Development**.
+🎯 Full Stack .NET Developer with experience in ASP.NET Core, Angular and building web scalable applications.
+🛠️ Skilled in delivering full-stack solutions using clean architecture, solid principles and best dev. practices .
+💡  Completed the Talabat bootcamp with a strong focus on microservices, DDD , and backend scalability.
+🚀 Currently seeking a new role to deepen my technical skills, and contribute to impactful real-world projects.
 
 ---
 
