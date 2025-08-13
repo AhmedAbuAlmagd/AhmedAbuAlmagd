@@ -75,13 +75,6 @@
 
 ---
 
-### ⚡ Fun Facts
-
-- 🧩 I love solving real-world challenges with code
-- 🌍 Always learning new tech to stay ahead
-- 🎨 I care about beautiful and usable interfaces as much as backend performance
-
-
 
 ### 🌐 Connect with Me
 <p align="left">
