@@ -10,7 +10,7 @@
 ### 📫 How to Reach Me
 
 - 📧 Email: **abuelmagdahmed6@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/drive/u/0/folders/1262MheHXfmKfc6EtJmk1tQO3OFZRRcHF)
+- 📄 [View My Resume]([[https://drive.google.com/drive/u/0/folders/1262MheHXfmKfc6EtJmk1tQO3OFZRRcHF](https://drive.google.com/drive/folders/14t8BOQW2NFNU6FZFajepsJm3Pz_gdwbl)](https://drive.google.com/drive/folders/14t8BOQW2NFNU6FZFajepsJm3Pz_gdwbl))
 - 🔗 [LinkedIn: @ahmed-abu-elmagd](https://www.linkedin.com/in/ahmed-abu-almagd)
 
 ---
